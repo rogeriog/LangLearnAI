@@ -1,0 +1,12 @@
+docx==0.2.4
+genanki==0.13.0
+googletrans==3.1.0a0
+gTTS==2.3.0
+inflect==6.0.2
+LangDeckGen==0.0.5
+nltk==3.7
+openai==0.25.0
+pycountry==22.3.5
+pydub==0.25.1
+python_docx==0.8.11
+wordfreq==3.0.3
